@@ -1,1 +1,1 @@
-FEATURE BRANCH - This is my different change. 
+This is the final resolved change combining the MAIN and FEATURE branches.
