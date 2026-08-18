@@ -1,1 +1,1 @@
-MAIN BRANCH - This is the latest change from main. 
+This is the final resolved change combining the MAIN and FEATURE branches.
